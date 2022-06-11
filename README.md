@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Naveenkumar1110
 - 👀 I’m interested in Business Analysis/Analytics
 - 🌱 I’m currently learning SQL,PYTHON
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  nk39322@gmail.com
 
 <!---
