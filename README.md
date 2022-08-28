@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Naveenkumar1110
-- 👀 I’m interested in Business Analysis/Analytics
+- 👋 Hi, I’m @Naveenkumar1110 a Aspiring Business Analyst/ Data Analyst
+- 👀 I’m interested in Business Analysis/Analytics  
 - 🌱 I’m currently learning SQL,PYTHON
 - 📫 How to reach me  nk39322@gmail.com
 
