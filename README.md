@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naveenkumar1110  Aspiring Business Analyst/ Data Analyst
+- 👋 Hi, I’m @Naveenkumar1110  AN aspiring Business Analyst/ Data Analyst
 - 👀 I’m interested in Business Analysis and Business/Data Analytics  
 - 🌱 I’m currently learning SQL,PYTHON,Tableau 
 - 📫 How to reach me  nk39322@gmail.com
